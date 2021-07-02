@@ -5,6 +5,7 @@
 [![Android Arsenal](http://img.shields.io/badge/Android%20Arsenal-MPAndroidChart-orange.svg?style=flat)](http://android-arsenal.com/details/1/741)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/PhilJay/MPAndroidChart?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge)
 [![Twitter](https://img.shields.io/badge/Twitter-@mpandroidchart-blue.svg?style=flat)](http://twitter.com/mpandroidchart)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Foceanection%2FMPAndroidChart.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Foceanection%2FMPAndroidChart?ref=badge_shield)
 
 :zap: A powerful & easy to use chart library for Android :zap:
 
@@ -234,3 +235,7 @@ These people rock!
 - [tony](https://github.com/tonypatino-monoclesociety) - Tony
 - [almic](https://github.com/almic) - Mick A.
 - [jitpack.io](https://github.com/jitpack-io) - JitPack.io
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Foceanection%2FMPAndroidChart.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Foceanection%2FMPAndroidChart?ref=badge_large)
